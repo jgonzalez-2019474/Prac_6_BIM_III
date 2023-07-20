@@ -5,9 +5,9 @@
  * Grado: Quinto
  * Sección: A
  * Curso: Taller de electronica digital y reparación de computadoras I
- * Nombre: 
- * CARNE: 
- * Proyecto:
+ * Nombre: Javier Andre Gonzalez Barrera
+ * CARNE: 2019474
+ * Proyecto: practica #6
 */
 //Librerias
 #include <Wire.h>
